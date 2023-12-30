@@ -1,7 +1,6 @@
-# Whatsapp-API
- Recently Whatsapp opened for businesses. Scheduling is much more useful for businesses.
-That's why I created an API to schedule whatsapp messages which contains CRUD
-functionality(Create(post),Read(get),Update(put),Delete(delete)).
+# whatsapp messaging scheduler 
+
+Whatsapp-connect - 
 Firstly I will take the message scheduled time and phone number from User and I will store them
 in mySQL database.
 3. Then For every two minutes I will poll unsent messages from the database and i will send
